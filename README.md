@@ -1,2 +1,2 @@
-# Portfoliowebsite
-This is Portfolio Project made using HTML and CSS
+# Portfolio
+Portfolio Project using HTML and CSS
