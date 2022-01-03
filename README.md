@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio Project using HTML and CSS
+Sample Portfolio Website using HTML and CSS
